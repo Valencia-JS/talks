@@ -9,6 +9,8 @@ En [ValenciaJS](http://www.valenciajs.org/) estamos buscando charlas o workshops
 Envía un _issue_ para proponer una charla. Por favor, incluye:
 
 * Título de la charla.
+* Formato: Charla o Workshop
+* Nivel de la charla: Introductoria o Avanzada
 * Descripción: unas cuantas frases sobre lo que quieres hablar.
 * Bio de ponente: ¿quién eres, y qué haces en tu tiempo libre?
 
@@ -24,6 +26,8 @@ Send yours *now*!
 Send an _issue_ to propose a talk. Please include:
 
 * Title of the talk.
+* Format: Talk or Workshop
+* Talk level: Introductory or Advanced
 * Description: a few sentences explaining what you will talk about.
 * Bio: who are you, and what do you do?
 
