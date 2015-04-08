@@ -34,11 +34,20 @@ Send an _issue_ to propose a talk. Please include:
 We will contact you to confirm reception, and to assign tentative date.
 We will then notify you with a final date, several weeks in advance.
 
+## Charlas realizadas
+
+### Abril 2015
+
+* Introduction to Front-End tooling (introductoria): http://bit.ly/vlcjs2-1
+* Flying JavaScript monster (avanzada): http://bit.ly/vlcjs2-2
+
 ## Próximas charlas previstas
 
 La fecha y organización de las charlas puede cambiar sin previo aviso,
 según disponibilidad de los ponentes y espacios.
 
-### Marzo 2015
-
+### Mayo 2015
 TBD
+
+
+
