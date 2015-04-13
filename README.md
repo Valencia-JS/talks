@@ -36,7 +36,7 @@ We will then notify you with a final date, several weeks in advance.
 
 ## Charlas realizadas
 
-### Abril 2015
+### Abril
 
 * Introduction to Front-End tooling (introductoria): http://bit.ly/vlcjs2-1
 * Flying JavaScript monster (avanzada): http://bit.ly/vlcjs2-2
@@ -46,8 +46,13 @@ We will then notify you with a final date, several weeks in advance.
 La fecha y organización de las charlas puede cambiar sin previo aviso,
 según disponibilidad de los ponentes y espacios.
 
-### Mayo 2015
+### Mayo
 TBD
+
+### Junio 
+
+* React.js: Primeros pasos (introductoria): https://github.com/Valencia-JS/talks/issues/3
+* TBD
 
 
 
