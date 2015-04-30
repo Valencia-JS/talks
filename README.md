@@ -47,12 +47,12 @@ La fecha y organización de las charlas puede cambiar sin previo aviso,
 según disponibilidad de los ponentes y espacios.
 
 ### Mayo
-TBD
+* React.js: Learn Meteor in less than 30 minutes (Talk + Workshop) https://github.com/Valencia-JS/talks/issues/5
 
 ### Junio 
 
 * React.js: Primeros pasos (introductoria): https://github.com/Valencia-JS/talks/issues/3
-* TBD
+* Things I wish someone told me about NodeJS or How Node can shoot you in the foot (avanzada): https://github.com/Valencia-JS/talks/issues/4
 
 
 
