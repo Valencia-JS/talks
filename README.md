@@ -38,8 +38,8 @@ We will then notify you with a final date, several weeks in advance.
 
 ### Abril
 
-* Introduction to Front-End tooling (introductoria): http://bit.ly/vlcjs2-1
-* Flying JavaScript monster (avanzada): http://bit.ly/vlcjs2-2
+* [Introduction to Front-End tooling (introductoria)](http://bit.ly/vlcjs2-1)
+* [Flying JavaScript monster (avanzada)](http://bit.ly/vlcjs2-2)
 
 ## Próximas charlas previstas
 
@@ -47,12 +47,12 @@ La fecha y organización de las charlas puede cambiar sin previo aviso,
 según disponibilidad de los ponentes y espacios.
 
 ### Mayo
-* React.js: Learn Meteor in less than 30 minutes (Talk + Workshop) https://github.com/Valencia-JS/talks/issues/5
+* [Learn Meteor in less than 30 minutes (Talk + Workshop)](https://github.com/Valencia-JS/talks/issues/5)
 
 ### Junio 
 
-* React.js: Primeros pasos (introductoria): https://github.com/Valencia-JS/talks/issues/3
-* Things I wish someone told me about NodeJS or How Node can shoot you in the foot (avanzada): https://github.com/Valencia-JS/talks/issues/4
+* [React.js: Primeros pasos (introductoria)](https://github.com/Valencia-JS/talks/issues/3)
+* [Things I wish someone told me about NodeJS or How Node can shoot you in the foot (avanzada)](https://github.com/Valencia-JS/talks/issues/4)
 
 
 
