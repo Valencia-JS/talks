@@ -41,13 +41,15 @@ We will then notify you with a final date, several weeks in advance.
 * [Introduction to Front-End tooling (introductoria)](http://bit.ly/vlcjs2-1)
 * [Flying JavaScript monster (avanzada)](http://bit.ly/vlcjs2-2)
 
+
+### Mayo
+
+* [Learn Meteor in less than 30 minutes (Talk + Workshop)](https://docs.google.com/presentation/d/1KqPoL2h28ebHSBdm_sHYLAfSSM951d1J-HcXS2jIVec/edit?usp=sharing)
+
 ## Próximas charlas previstas
 
 La fecha y organización de las charlas puede cambiar sin previo aviso,
 según disponibilidad de los ponentes y espacios.
-
-### Mayo
-* [Learn Meteor in less than 30 minutes (Talk + Workshop)](https://github.com/Valencia-JS/talks/issues/5)
 
 ### Junio 
 
