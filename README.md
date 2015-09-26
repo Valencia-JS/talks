@@ -46,15 +46,16 @@ We will then notify you with a final date, several weeks in advance.
 
 * [Learn Meteor in less than 30 minutes (Talk + Workshop)](https://docs.google.com/presentation/d/1KqPoL2h28ebHSBdm_sHYLAfSSM951d1J-HcXS2jIVec/edit?usp=sharing)
 
-## Próximas charlas previstas
-
-La fecha y organización de las charlas puede cambiar sin previo aviso,
-según disponibilidad de los ponentes y espacios.
 
 ### Junio 
 
-* [React.js: Primeros pasos (introductoria)](https://github.com/Valencia-JS/talks/issues/3)
-* [Things I wish someone told me about NodeJS or How Node can shoot you in the foot (avanzada)](https://github.com/Valencia-JS/talks/issues/4)
+* [Things I wish someone told me about NodeJS or How Node can shoot you in the foot (avanzada)](http://www.meetup.com/es/ValenciaJS/events/222892338/)
+* [Modularizando JavaScript en el navegador (medio)](http://www.meetup.com/es/ValenciaJS/events/222892338/)
+* [¿Cómo organizar el código de nuestros proyectos? (Mesa redonda)](http://www.meetup.com/es/ValenciaJS/events/223474228/)
 
+### Julio
+
+* [Introduction to React.js](http://www.meetup.com/es/ValenciaJS/events/223760927/)
+* [TDD for Kids](http://www.meetup.com/es/ValenciaJS/events/223760927/)
 
 
