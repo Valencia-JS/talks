@@ -1,0 +1,14 @@
+doctype html
+html(lang="en")
+  head
+    title ES2015 | Antonio Bustos
+    meta(charset="utf-8")
+    style
+      include style.css
+  body
+    textarea#source
+      include es2015.md
+    script(src="https://gnab.github.io/remark/downloads/remark-latest.min.js")
+    script.
+      var slideshow = remark.create();
+
