@@ -66,4 +66,10 @@ We will then notify you with a final date, several weeks in advance.
 * [Introduction to React.js](http://www.meetup.com/es/ValenciaJS/events/223760927/)
 * [TDD for Kids](http://www.meetup.com/es/ValenciaJS/events/223760927/)
 
+### Septiembre 2015
 
+* [Augur Project, a open decentralised prediction platform](http://www.meetup.com/ValenciaJS/events/225289179/)
+
+### Febrero 2016
+
+* [Javascript ES6, generadores y promesas](http://www.meetup.com/ValenciaJS/events/228786386/) | [presentación/slides](http://es6.busrod.net/)
