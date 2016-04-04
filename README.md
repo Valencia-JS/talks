@@ -44,24 +44,24 @@ We will then notify you with a final date, several weeks in advance.
 
 ## Charlas realizadas
 
-### Abril
+### Abril 2015
 
 * [Introduction to Front-End tooling (introductoria)](http://bit.ly/vlcjs2-1)
 * [Flying JavaScript monster (avanzada)](http://bit.ly/vlcjs2-2)
 
 
-### Mayo
+### Mayo 2015
 
 * [Learn Meteor in less than 30 minutes (Talk + Workshop)](https://docs.google.com/presentation/d/1KqPoL2h28ebHSBdm_sHYLAfSSM951d1J-HcXS2jIVec/edit?usp=sharing)
 
 
-### Junio 
+### Junio 2015
 
 * [Things I wish someone told me about NodeJS or How Node can shoot you in the foot (avanzada)](http://www.meetup.com/es/ValenciaJS/events/222892338/)
 * [Modularizando JavaScript en el navegador (medio)](http://www.meetup.com/es/ValenciaJS/events/222892338/)
 * [¿Cómo organizar el código de nuestros proyectos? (Mesa redonda)](http://www.meetup.com/es/ValenciaJS/events/223474228/)
 
-### Julio
+### Julio 2015
 
 * [Introduction to React.js](http://www.meetup.com/es/ValenciaJS/events/223760927/)
 * [TDD for Kids](http://www.meetup.com/es/ValenciaJS/events/223760927/)
