@@ -1,5 +1,13 @@
 # ValenciaJS Talks
 
+[![Meetup](https://img.shields.io/badge/Meetup-Valencia--JS-red.svg?style=flat-square)](https://www.meetup.com/ValenciaJS)[![Twitter](https://img.shields.io/badge/Twitter-VlcJS-55acee.svg?style=flat-square)](https://twitter.com/VlcJS)[![slack](https://img.shields.io/badge/slack-valenciajs-f3005a.svg?style=flat-square)](https://valenciajs.slack.com)
+
+- [Meetup](https://www.meetup.com/ValenciaJS)
+- [Twitter](https://twitter.com/VlcJS)
+- [Slack](https://valenciajs.slack.com)
+
+If you are not a member of our Slack community, please [join slack channel](http://valenciajs.herokuapp.com/) (slackin).
+
 ## Propuestas
 
 En [ValenciaJS](http://www.valenciajs.org/) estamos buscando charlas o workshops sobre JavaScript. El formato es el de 2 charlas de 30 min o un workshop de 50 min.
