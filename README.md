@@ -42,17 +42,27 @@ Send an _issue_ to propose a talk. Please include:
 We will contact you to confirm reception, and to assign tentative date.
 We will then notify you with a final date, several weeks in advance.
 
-## Charlas realizadas
+## Charlas realizadas / Talks
 
-### Abril 2015
+### April 2016
 
-* [Introduction to Front-End tooling (introductoria)](http://bit.ly/vlcjs2-1)
-* [Flying JavaScript monster (avanzada)](http://bit.ly/vlcjs2-2)
+* [NodeSchool: Functional Javascript](http://www.meetup.com/ValenciaJS/events/230322517/)
 
 
-### Mayo 2015
+### Febrero 2016
 
-* [Learn Meteor in less than 30 minutes (Talk + Workshop)](https://docs.google.com/presentation/d/1KqPoL2h28ebHSBdm_sHYLAfSSM951d1J-HcXS2jIVec/edit?usp=sharing)
+* [Javascript ES6, generadores y promesas](http://www.meetup.com/ValenciaJS/events/228786386/) | [presentación/slides](http://es6.busrod.net/)
+
+
+### Septiembre 2015
+
+* [Augur Project, a open decentralised prediction platform](http://www.meetup.com/ValenciaJS/events/225289179/)
+
+
+### Julio 2015
+
+* [Introduction to React.js](http://www.meetup.com/es/ValenciaJS/events/223760927/)
+* [TDD for Kids](http://www.meetup.com/es/ValenciaJS/events/223760927/)
 
 
 ### Junio 2015
@@ -61,15 +71,13 @@ We will then notify you with a final date, several weeks in advance.
 * [Modularizando JavaScript en el navegador (medio)](http://www.meetup.com/es/ValenciaJS/events/222892338/)
 * [¿Cómo organizar el código de nuestros proyectos? (Mesa redonda)](http://www.meetup.com/es/ValenciaJS/events/223474228/)
 
-### Julio 2015
 
-* [Introduction to React.js](http://www.meetup.com/es/ValenciaJS/events/223760927/)
-* [TDD for Kids](http://www.meetup.com/es/ValenciaJS/events/223760927/)
+### Mayo 2015
 
-### Septiembre 2015
+* [Learn Meteor in less than 30 minutes (Talk + Workshop)](https://docs.google.com/presentation/d/1KqPoL2h28ebHSBdm_sHYLAfSSM951d1J-HcXS2jIVec/edit?usp=sharing)
 
-* [Augur Project, a open decentralised prediction platform](http://www.meetup.com/ValenciaJS/events/225289179/)
 
-### Febrero 2016
+### Abril 2015
 
-* [Javascript ES6, generadores y promesas](http://www.meetup.com/ValenciaJS/events/228786386/) | [presentación/slides](http://es6.busrod.net/)
+* [Introduction to Front-End tooling (introductoria)](http://bit.ly/vlcjs2-1)
+* [Flying JavaScript monster (avanzada)](http://bit.ly/vlcjs2-2)
