@@ -1,14 +1,12 @@
 # ValenciaJS Talks
 
-[![Meetup](https://img.shields.io/badge/Meetup-Valencia--JS-red.svg?style=flat-square)](https://www.meetup.com/ValenciaJS)[![Twitter](https://img.shields.io/badge/Twitter-VlcJS-55acee.svg?style=flat-square)](https://twitter.com/VlcJS)[![slack](https://img.shields.io/badge/slack-valenciajs-f3005a.svg?style=flat-square)](https://valenciajs.slack.com)
+[![Meetup](https://img.shields.io/badge/Meetup-Valencia--JS-red.svg?style=flat-square)](https://www.meetup.com/ValenciaJS) [![Twitter](https://img.shields.io/badge/Twitter-VlcJS-55acee.svg?style=flat-square)](https://twitter.com/VlcJS) [![slack](https://img.shields.io/badge/slack-vlctechhub-f3005a.svg?style=flat-square)](https://slack.vlctechhub.org/)
 
 - [Meetup](https://www.meetup.com/ValenciaJS)
 - [Twitter](https://twitter.com/VlcJS)
-- [Slack](https://valenciajs.slack.com)
+- [Slack](https://slack.vlctechhub.org/) of [VlcTechHub](https://vlctechhub.org/)
 
-If you are not a member of our Slack community, please [join slack channel](http://valenciajs.herokuapp.com/) (slackin).
-
-## Propuestas
+## [ES] Propuestas
 
 En [ValenciaJS](http://www.valenciajs.org/) estamos buscando charlas o workshops sobre JavaScript. El formato es el de 2 charlas de 30 min o un workshop de 50 min.
 
@@ -25,7 +23,7 @@ Envía un _issue_ para proponer una charla. Por favor, incluye:
 Contactaremos contigo para confirmar recepción, y para asignarte fecha tentativa.
 Te avisaremos ya en firme con varias semanas de antelación.
 
-## Call for Proposals
+## [EN] Call for Proposals
 
 At [ValenciaJS](http://www.valenciajs.org/) we are actively seeking talks or workshops about JavaScript. The format is 2 talks of 30 minor 1 workshop of 50 min.
 
