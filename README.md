@@ -42,6 +42,15 @@ We will then notify you with a final date, several weeks in advance.
 
 ## Charlas realizadas / Talks
 
+### December 2019
+* [Decentraland primer contacto: JS, 3D, p2p y blockchain en el navegador](https://www.meetup.com/ValenciaJS/events/266802915/)
+
+### November 2019
+* [Headless ecommerce - commercetools, microservicios y SDKs](https://www.meetup.com/ValenciaJS/events/266553319/)
+
+### October 2019
+* [Feature Flags en Frontendlandia con Google Optimize](https://www.meetup.com/ValenciaJS/events/264612456/)
+
 ### September 2019
 * [How to publish a javascript library](https://www.meetup.com/ValenciaJS/events/264595270/)
 
