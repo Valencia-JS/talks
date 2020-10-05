@@ -42,6 +42,9 @@ We will then notify you with a final date, several weeks in advance.
 
 ## Charlas realizadas / Talks
 
+### March 2020
+* [JsBattle workshop](https://www.meetup.com/ValenciaJS/events/268928243/)
+
 ### December 2019
 * [Decentraland primer contacto: JS, 3D, p2p y blockchain en el navegador](https://www.meetup.com/ValenciaJS/events/266802915/)
 
